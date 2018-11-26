@@ -82,5 +82,7 @@
     width: auto;
   }
   
-  #logo
+  #logo {
+    padding: 60px;
+  }
 }
