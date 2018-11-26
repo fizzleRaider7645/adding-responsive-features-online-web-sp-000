@@ -73,4 +73,6 @@
   #navbar nav a {
     display: none;
   }
+  
+  #navbar nav a.menu-icon
 }
