@@ -92,5 +92,7 @@
 }
 
 @media only screen nad (max-width: 495px) {
-  #logo
+  #logo h2 {
+    visiblity: hidden;
+  }
 }
